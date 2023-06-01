@@ -1,0 +1,220 @@
+{
+    "questions": [
+        {
+            "question": "Who's the main character in Pokémon?",
+            "correct": "A",
+            "answers": [
+                "A. Ash",
+                "B. Professor Oak",
+                "C. Pikachu"
+            ]
+        },
+        {
+            "question": "Which of these Pokémon types don't exist?",
+            "correct": "C",
+            "answers": [
+                "A. Fire",
+                "B. Water",
+                "C. Glass"
+            ]
+        },
+        {
+            "question": "What colour is Ash's hat?",
+            "correct": "C",
+            "answers": [
+                "A. Green",
+                "B. Blue",
+                "C. Red"
+            ]
+        },
+        {
+            "question": "Fill in the blank. “I want to be _____”",
+            "correct": "A",
+            "answers": [
+                "A. The very best",
+                "B. The ultimate Pokémon catcher",
+                "C. Amazing"
+            ]
+        },
+        {
+            "question": "What is the strongest Pokémon?",
+            "correct": "C",
+            "answers": [
+                "A. Pikachu",
+                "B. Charzard",
+                "C. Arceus"
+            ]
+        },
+        {
+            "question": "What type of Pokémon is Pikachu?",
+            "correct": "B",
+            "answers": [
+                "A. Fire",
+                "B. Electric",
+                "C. Mystic "
+            ]
+        },
+        {
+            "question": "The Pokémon type Fire is weakest against what type of Pokémon?",
+            "correct": "C",
+            "answers": [
+                "A. Bug",
+                "B. Ice",
+                "C. Water"
+            ]
+        },
+        {
+            "question": "How many evolutions does Eevee have?",
+            "correct": "B",
+            "answers": [
+                "A. 4",
+                "B. 8",
+                "C. 6"
+            ]
+        },
+        {
+            "question": "Which of these Pokémon is not a starter Pokémon?",
+            "correct": "C",
+            "answers": [
+                "A. Charmander",
+                "B. Bulbasaur",
+                "C. Meowth"
+            ]
+        },
+        {
+            "question": "Which Pokémon is Misty’s main Pokémon?",
+            "correct": "A",
+            "answers": [
+                "A. Staryu",
+                "B. Ekans",
+                "C. Pikachu"
+            ]
+        },
+        {
+            "question": "What is Piplup’s final evolution?",
+            "correct": "C",
+            "answers": [
+                "A. Prinplup",
+                "B. Turtwig",
+                "C. Empoleon"
+            ]
+        },
+        {
+            "question": "What colour is poliwag?",
+            "correct": "B",
+            "answers": [
+                "A. Red",
+                "B. Blue",
+                "C. Pink"
+            ]
+        },
+        {
+            "question": "What is squirtle’s final evolution?",
+            "correct": "A",
+            "answers": [
+                "A. Blastoise",
+                "B. Ivysaur",
+                "C. Wartortle"
+            ]
+        },
+        {
+            "question": "How old is Ash in the beginning of the series?",
+            "correct": "B",
+            "answers": [
+                "A. 5",
+                "B. 10",
+                "C. 15"
+            ]
+        },
+        {
+            "question": "What is Gyarados' best attack?",
+            "correct": "C",
+            "answers": [
+                "A. Waterfall",
+                "B. Splash",
+                "C. Hydro Pump"
+            ]
+        },
+        {
+            "question": "What was the first Pokémon ash caught?",
+            "correct": "B",
+            "answers": [
+                "A. Pikachu",
+                "B. Caterpie",
+                "C. Bulbasaur"
+            ]
+        },
+        {
+            "question": "What animal is Turtwig?",
+            "correct": "C",
+            "answers": [
+                "A. Dog",
+                "B. Bat",
+                "C. Turtle"
+            ]
+        },
+        {
+            "question": "How many members are in the Squirtle Squad?",
+            "correct": "B",
+            "answers": [
+                "A. 9",
+                "B. 5",
+                "C. 4"
+            ]
+        },
+        {
+            "question": "Who is Brock’s main Pokémon?",
+            "correct": "A",
+            "answers": [
+                "A. Forretress",
+                "B. Skitty",
+                "C. Pineco"
+            ]
+        },
+        {
+            "question": "Who is number 1 in the Pokédex?",
+            "correct": "B",
+            "answers": [
+                "A. Charmander",
+                "B. Bulbasaur",
+                "C. Pikachu"
+            ]
+        },
+        {
+            "question": "How many Pokémon are there?",
+            "correct": "A",
+            "answers": [
+                "A. 1008",
+                "B. 989",
+                "C. 913"
+            ]
+        },
+        {
+            "question": "How many types of Pokéballs are there?",
+            "correct": "B",
+            "answers": [
+                "A. 4",
+                "B. 27",
+                "C. 12"
+            ]
+        },
+        {
+            "question": "Who is Ash's rival?",
+            "correct": "B",
+            "answers": [
+                "A. Brock",
+                "B. Gary",
+                "C. Charzard"
+            ]
+        },
+        {
+            "question": "What are the three types of starter Pokémon?",
+            "correct": "C",
+            "answers": [
+                "A. Fairy, Bug, Steel",
+                "B. Water, Air, Bug",
+                "C. Grass, Fire, Water"
+            ]
+        }
+    ]
+}
